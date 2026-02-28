@@ -1,4 +1,4 @@
-# Plant-ploya-evolution
+# Plant-polya-evolution
 Primary analysis code for FLEP-seq data processing and evolutionary profiling of plant poly(A) tails.
 Core Analysis Notebooks
 This repository contains the core analytical scripts used for processing FLEP-seq data and generating evolutionary profiles of plant poly(A) tails. The following notebooks correspond to the primary figures in our manuscript:
